@@ -1,5 +1,4 @@
 # AirportX---Data-Analysis-Project
-================= VIEW THE REPORT FILE ================
 A comprehensive data analysis project that simulates a finance report for a clothing company. This project uses SQL queries to analyze the data and Tableau to visualize it
 Welcome to my project!
 you should view the main report for the final product.
